@@ -13,9 +13,9 @@
     "@shopify:registry": "https://registry.npmjs.org"
   },
   "author": "Shopify Inc.",
-  "repository": "https://github.com/shopify/quilt/tree/master/packages/react-html",
+  "repository": "https://github.com/Shopify/quilt/tree/master/packages/react-html",
   "bugs": {
-    "url": "https://github.com/shopify/quilt/issues"
+    "url": "https://github.com/Shopify/quilt/issues"
   },
   "homepage": "https://github.com/Shopify/quilt/blob/master/packages/react-html/README.md",
   "dependencies": {
